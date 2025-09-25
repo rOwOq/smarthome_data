@@ -22,3 +22,6 @@ smarthome_data/
 ├── csharp_app/        # C# WinForms/WPF 기반 프로그램
 ├── data/              # 수집된 센서 데이터 (CSV/JSON)
 └── README.md          # 프로젝트 문서
+
+##시연 영상
+Blog :  http://blog.naver.com/ehowl169
