@@ -18,7 +18,7 @@ Arduino Mega 2560 + 다양한 센서(MMB 키트 포함)와 C# 기반 데스크�
 ## 📂 프로젝트 구조
 ```bash
 smarthome_data/
- <br>├── arduino/           # Arduino Mega 2560 코드
- <br>├── csharp_app/        # C# WinForms/WPF 기반 프로그램
- <br>├── data/              # 수집된 센서 데이터 (CSV/JSON)
- <br>└── README.md          # 프로젝트 문서
+├── arduino/           # Arduino Mega 2560 코드
+├── csharp_app/        # C# WinForms/WPF 기반 프로그램
+├── data/              # 수집된 센서 데이터 (CSV/JSON)
+└── README.md          # 프로젝트 문서
